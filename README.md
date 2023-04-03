@@ -1,5 +1,5 @@
 # About
- SIP client (partially developed) for collecting/identifying caller "Id"/"Extension" over SIP protocol.
+ SIP client (partially developed) for collecting/identifying caller Id/Extension over SIP protocol.
 <br>
 <br>
 
