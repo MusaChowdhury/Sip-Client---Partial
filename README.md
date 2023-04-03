@@ -24,7 +24,7 @@ PJSIP/100 && PJSIP/200". (considering the sip server is asterisk/freepbx)</li>
 <li>Add a callback function according to requirement.</li>
 </ol>
 <br>
-<br>
+
 
 # Limitations
 <ul>
